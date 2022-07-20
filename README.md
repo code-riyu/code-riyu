@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @code-riyu
-- 👀 I’m interested in start my journey into programming and data analysis
-- 🌱 I’m currently learning data analytics and python
-- 💞️ I’m looking to collaborate on data science and the understanding that comes with it
+- 👋 Olá, Sou @code-riyu
+- 👀 Interessado em enfim começar minha trajetória na programação e análise de dados
+- 🌱 Atualmente estou tentando aprender python
+- 💞️ Espero poder contribuir de alguma forma no estudo de dados e no aprendizado que isso trouxer
 
 <!---
 code-riyu/code-riyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
