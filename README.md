@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @code-riyu
+- 👋 Olá, sou @code-riyu
 - 👀 Interessado em enfim começar minha trajetória na programação e análise de dados
 - 🌱 Atualmente estou tentando aprender python
 - 💞️ Espero poder contribuir de alguma forma no estudo de dados e no aprendizado que isso trouxer
